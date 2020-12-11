@@ -1,11 +1,14 @@
 
 # About me!
 
-Hellooooo!
+
+![](assets/images/profile.jpg)
+
+
 
 IM Borin,
 
-This is proabably a blog that will be put **inerested contents/ tips** that most related to computer program.
+This is proabably a blog that I will put **inerested contents/ tips** that I experienced.
 - Familiar Lanuages and Tools :
 > - Python (Flask, Django)
 > - Front-end side (Js, Ajax)

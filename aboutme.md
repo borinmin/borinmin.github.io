@@ -5,22 +5,10 @@
 ![](assets/images/profile.jpg)
 
 
+``Sticking with problem is the ideal way to solve problem. Really?``
+Hello visitors, 
 
-IM Borin,
-
-This is proabably a blog that I will put **inerested contents/ tips** that I experienced.
-- Familiar Lanuages and Tools :
-> - Python (Flask, Django)
-> - Front-end side (Js, Ajax)
-> - Java ,C++, C
-> - Linux desktop
-> - Docker
-- Researching Topics
-> - Machine Learning : Image Processing
-
-- Hobby:
-> - Security research.
-> - Talking with community online
+I am Borin
 
 ---
 **Follow me on social**

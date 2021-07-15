@@ -2,7 +2,33 @@
 layout: default
 ---
 
+<<<<<<< HEAD
 [comment]: <> (*  ## [Link to another page]&#40;./another-page.html&#41;)
+=======
+<html>
+    <style>
+        .outline{
+            border: 1px red solid;
+        }
+    </style>
+    <table style="width:70%;">
+        <tr>
+            <td>
+                <div>
+                    <script src="https://tryhackme.com/badge/25541"></script>
+                </div>
+            </td>
+            <td>
+                <div>
+                    <script src="https://www.hackthebox.eu/badge/460748"></script>
+                </div>
+            </td> 
+        </tr>
+</table>
+   
+</html>
+*  ## [Link to another page](./another-page.html)
+>>>>>>> 4019c9964cee699796153515c775ef1156342a21
 
 [comment]: <> (* ##  [About me]&#40;./aboutme.html&#41;)
 

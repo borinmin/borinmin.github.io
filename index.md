@@ -61,11 +61,11 @@ to{border-right-color: transparent;}
 
 </table>
 <br>
-<p class="line-1 anim-typewriter" style="text-color:#808B96;">សួរស្តី អ្នកទាំងអស់គ្នា ស្វាគមន៏មកាន់ទំព័រមួយនេះ...</p>
+<p class="line-1 anim-typewriter" style="text-color:#808B96;">សួរស្តី អ្នកទាំងអស់គ្នា ស្វាគមន៏មកាន់ទំព័រមួយនេះ...អ្នកគឺជាមនុស្សម្នាក់គត់មកគាន់តទីនេះ!</p>
 
 <script>
     document.addEventListener('DOMContentLoaded', () => {
-    alert("Hi")
+    
 })
 </script>
 </html>

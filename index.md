@@ -28,7 +28,7 @@ layout: default
 [comment]: <> (\* ## [About me]&#40;./aboutme.html&#41;)
 
 ```python
-<<សួរស្តី អ្នកទាំងអស់គ្នា ស្វាគមន៏មកាន់ទំព័រមួយនេះ!>>
+"សួរស្តី អ្នកទាំងអស់គ្នា ស្វាគមន៏មកាន់ទំព័រមួយនេះ!"
 
-<<"Hello everyone, welcome to my page!>>
+"Hello everyone, welcome to my page!"
 ```
